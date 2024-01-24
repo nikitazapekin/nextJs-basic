@@ -8,7 +8,9 @@ const TheHeader = () => {
     >
       <Link className="navItem" style={{textDecoration: "none", color: "#fff"}} href="/">Home</Link>
       <Link className="navItem" style={{textDecoration: "none", color: "#fff"}} href="/resumes">Resumes</Link>
+      <Link className="navItem" style={{textDecoration: "none", color: "#fff"}} href="/offers">Job offers</Link>
       <Link  className="navItem" style={{textDecoration: "none", color: "#fff"}}href="/about">About</Link>
+      <Link  className="navItem" style={{textDecoration: "none", color: "#fff"}}href="/profile">Profile</Link>
     </div>
   );
 };

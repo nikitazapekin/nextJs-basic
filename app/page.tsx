@@ -20,3 +20,4 @@ fewew
 
 
 //https://github.com/michey85/next-blog-app/blob/main/services/getPosts.ts
+//https://www.youtube.com/watch?v=VGiphTEApfo&t=281s
